@@ -1,5 +1,10 @@
 import React from "react";
 
 export const Participants = () => {
-    return <div>Participants</div>;
+    return (
+        <div>
+            <h1>Participants </h1>
+            List of Participants
+        </div>
+    );
 };
