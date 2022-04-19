@@ -10,4 +10,5 @@ export class NodeService {
 		return axios.get('assets/demo/data/treetablenodes.json')
 			.then(res => res.data.root);
 	}
+    
 }
