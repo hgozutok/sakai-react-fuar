@@ -8,5 +8,5 @@ export const AppFooter = (props) => {
             by
             <span className="font-medium ml-2">Hugo</span>
         </div>
-    );
+    );//
 }
